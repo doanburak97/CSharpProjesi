@@ -1,0 +1,24 @@
+Console Uygulamasý-----------------------------
+
+Ýleri Matematik Hesap Makinesi
+
+Girilen denklem için integralini alan ve türevlendrebilen uygulama.
+
+Öðrencilerin iþlerini kolaylaþtýracak,bir denklemin türevini 
+ve integralini kolayca kullanýcýya sunabilecek uygulama.
+
+1-Kullanýcýdan denklem alýnacak
+
+2-Denklemin türü kullanýcýya yazdýrýlacak
+
+3-Kullanýcýya 2 seçenek sunulacak.Bunlar;
+a-Denklemin türevlenmiþ hali
+b-Denklemin integrali alýnmýþ hali
+
+4-Burada seçilecek seçeneðe göre,
+denklemin türevlenebileceði son noktaya kadar türevinin alýnmasý,veya
+integralinin alýnabilinecek son noktaya kadar integralinin alýnmasý sað-
+lanacak.
+
+5-Bu sonuçlandýrýlmýþ denklemler türleriyle beraber kullanýcýya yazdý-
+rýlacak. 

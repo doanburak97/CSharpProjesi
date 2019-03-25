@@ -1,0 +1,37 @@
+(FORM App.)
+
+---------------------Ürün Sayým Projesi----------------------------------------
+	Herhangi bir alýþveriþ dükkanýna ürün tedarik edecek toptancý firma iç-
+in ürün sayým arayüzü.
+
+Ürün Özellikleri:
+
+Ürün Markasý,
+Barkod Numarasý,
+Türü,
+Son Tüketim Tarihi.
+-------------------------------------------------------------------------------
+Uygulamanýn Amacý:
+
+	Kullanýcý tarafýndan girilen ürünlerin oluþturulan veritabanýna aktarýlmasý
+ ve ayný zamanda istendiði takdirde oradan kullanýcýya sunulmasý. 
+-------------------------------------------------------------------------------
+Uygulamanýn Ýçeriði:
+4 farklý textbox 4 farklý label ile adlandýrýlýcak.1 adet listbox olacak.(sonuç-
+larýn gösterilmesi için)
+Vertabaný oluþturulacak.
+Arayüzde kullanýcýnýn kullanabileceði 4 buton olacak.Bunlar sýrasýyla;
+
+1-Yeni ürün kaydet
+2-Ürün bilgilerini güncelle
+3-Ürünü veritabanýndan sil
+4-Listele
+-------------------------------------------------------------------------------
+Kullanýcý ilk butona bastýðýnda ürünü kayýt edecek.Ýlk butondan sonra kaydet se-
+çeneðine çýkýlacak.
+Kaydet e basýldýðýnda ürün kaydedilip tekrar ana ekrana dönüþ yapýlacak.
+Ayný þekilde ürünü silmek isteniyorsa sil butonuna yönlendirilecek ve veritaba-
+nýndan silinecek.
+Ana sayfaya tekrar dönülecek.
+En son olarak da listelenmesi istendiði zaman tüm ürünler "urunler.txt" dosya-
+sýndan kullanýcýya listbox üzerinden gösterilecek.
